@@ -1,0 +1,27 @@
+_repo: Verses-and-Rhymes-By-the-Way_6601
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Norah
+    aliases:
+    - McDougall, Margaret
+    - Pembroke, Nora
+    birthdate: 1826
+    deathdate: 1898
+    gutenberg_agent_id: '2110'
+    url: http://www.gutenberg.org/2009/agents/2110
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6601'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Canadian poetry -- 19th century'
+- GITenberg
+title: Verses and Rhymes By the Way
+url: http://www.gutenberg.org/ebooks/6601
